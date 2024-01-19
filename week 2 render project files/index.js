@@ -7,7 +7,7 @@ const dbConfig = {
   host: "sql.freedb.tech",
   user: "usfreedb_comp2350_mainer",
   password: "XFZSr3p6c25m@qb",
-  database: "databfreedb_comp2350-A01363804ase",
+  database: "freedb_comp2350-A01363804",
   multipleStatements: false,
 };
 
