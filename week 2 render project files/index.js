@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 
 const dbConfig = {
   host: "sql.freedb.tech",
-  user: "usfreedb_comp2350_main",
+  user: "freedb_comp2350_main",
   password: "XFZSr3p6c25m@qb",
   database: "freedb_comp2350-A01363804",
   multipleStatements: false,
