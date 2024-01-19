@@ -2,7 +2,6 @@ const mysql = require("mysql2/promise");
 const http = require("http");
 
 const port = process.env.PORT || 3000;
-console.log(port);
 
 const dbConfig = {
   host: "sql.freedb.tech",
